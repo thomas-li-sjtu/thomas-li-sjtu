@@ -7,7 +7,6 @@
 - ⚡ Fun fact: ...
 -->
 ![Thomas-Li's github stats](https://github-readme-stats.vercel.app/api?username=thomas-li-sjtu&theme=buefy&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-### More
 ### 💬 More
 ------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-li-sjtu&hide=html&layout=compact&theme=buefy&hide_border=true)
